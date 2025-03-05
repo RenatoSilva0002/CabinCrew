@@ -1,0 +1,10 @@
+- ![image.png](../assets/image_1741182837231_0.png)
+- A: Cockpit (always the reference point)
+- B: Forward
+- C: Afterward/Back
+- D: Right
+- E: Left
+- G: Outbound
+- F: Inbound
+-
+- The emergency doors are numbered from the cockpit to the back
