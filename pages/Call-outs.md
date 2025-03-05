@@ -1,0 +1,2 @@
+- Instruções dadas pelos #PNC para os #PAX
+- Nunca usar a negativa

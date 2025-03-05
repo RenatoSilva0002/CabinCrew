@@ -1,0 +1,6 @@
+- São responsáveis pela a iluminação dos:
+	- Corredores;
+	- Áreas de saída;
+	- Sinais EXIT;
+	- Lavabos;
+	- Mangas;

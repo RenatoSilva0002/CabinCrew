@@ -1,0 +1,4 @@
+- **Observação** deve ser realizada no conjunto de toda a situação de emergência;
+- **Julgamento** correto e objetivo;
+- **Decisão** ponderada, certa e oportuna;
+- **Atuação** correta e de acordo com as circunstâncias;

@@ -1,5 +1,5 @@
 - ![image.png](../assets/image_1741182837231_0.png)
-- A: Cockpit (Sempre o ponto de referência)
+- A: #Cockpit (Sempre o ponto de referência)
 - B: Forward (Frente)
 - C: Afterward/Back (Trás)
 - D: Right (Direita)
@@ -7,4 +7,4 @@
 - G: Outbound
 - F: Inbound
 -
-- As portas de emergência são numeradas a partir do cockpit.
+- As portas de emergência são numeradas a partir do #Cockpit .

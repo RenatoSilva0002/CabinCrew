@@ -1,0 +1,16 @@
+- Algumas das condições que podem tornar uma saída inoperativa são:
+	- O meio (terra ou água);
+	- A atitude final da aeronave;
+	- Motores em funcionamento;
+	- Fogos;
+	- Fumos;
+	- Destroços;
+	- Falha de Equipamento Auxiliar;
+	- Saída bloqueada;
+- A incorreta avaliação da operatividade de uma saída, condiciona a evacuação e pode pôr em causa a sobrevivência dos ocupantes de uma aeronave, pelo que os tripulantes devem ser extremamente cautelosos aquando da abertura e na continuidade da utilização duma saída de emergência.
+-
+- Procedimentos:
+	- Verificar a área exterior, recorrendo ao visor da saída;
+	- Se a área
+	- Redirecionar os passageiros para as saídas mais próxima;
+	-

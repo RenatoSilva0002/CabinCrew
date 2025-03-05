@@ -1,0 +1,2 @@
+- Sempre declarada pelo #Capitão, exceto no caso na falha de comunicação com os #PNT
+- Realizada no menor tempo possível
