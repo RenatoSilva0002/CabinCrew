@@ -1,0 +1,6 @@
+- **Asa Baixa**:
+	- Montada perto ou entre o final da fuselagem
+- **Asa Média**:
+	- Montada no meio da fuselagem
+- **Asa Alta**:
+	- Montada acima da fuselagem

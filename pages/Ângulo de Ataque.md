@@ -1,0 +1,5 @@
+- Ângulo formado entre a #Asa e a direção do vento relativo ou trajetória do voo
+- ![image.png](../assets/image_1741215073619_0.png)
+- Quanto maior a velocidade, maior a #Sustentação
+- Quanto maior o ângulo de ataque, maior a #Sustentação
+	- Mas se o ângulo de ataque for muito elevado, a asa entra em #Stall

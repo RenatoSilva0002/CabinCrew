@@ -1,0 +1,6 @@
+- **Monoplano**:
+	- 1 asa
+- **Biplano**:
+	- 2 asas
+- **Triplano**:
+	- 3 asas

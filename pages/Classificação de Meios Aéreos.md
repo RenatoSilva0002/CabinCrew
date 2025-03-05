@@ -1,0 +1,9 @@
+- Balões e Dirigíveis: Mais leves que o ar
+- Aeronaves: Mais pesados que o ar
+	- Qualificados por:
+		- #[[Número de Motores]]
+		- Tipo de Motores
+		- #[[Número de Asas]]
+		- #[[Tipo de Asas]]
+		- Tipo de Trem de Aterragem
+		- #[[Tipo de Aviação]]

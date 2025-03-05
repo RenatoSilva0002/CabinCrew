@@ -1,0 +1,2 @@
+- Separação do fluxo de ar no extradorso da #Asa devido ao #[[Ângulo de Ataque]] ser muito elevado resultando na perda da #Sustentação
+- ![image.png](../assets/image_1741215662371_0.png){:height 329, :width 407}

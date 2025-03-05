@@ -1,0 +1,13 @@
+- **Planadores**:
+	- Sem motores
+	- São lançados ou rebocados
+- **Monomotores**:
+	- 1 motor
+	- Normalmente o motor situa-se a frente do aeronave
+	- Mais barato e simples
+- **Bimotores**:
+	- 2 motores
+	- Mais seguro
+- **Multimotores**:
+	- Mais de 3 motores
+	-

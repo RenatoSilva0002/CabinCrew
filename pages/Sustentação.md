@@ -1,0 +1,7 @@
+- Em inglês: Lift
+- Força criada devido a diferença de pressão entre o Intradorso e o Extradorso ( #Asa )
+- O que pode fazer variar a sustentação:
+	- Velocidade
+	- #[[Ângulo de Ataque]]
+	- Superfície da #Asa
+	-

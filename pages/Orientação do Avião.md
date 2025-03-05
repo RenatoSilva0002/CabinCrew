@@ -1,4 +1,4 @@
-- ![image.png](../assets/image_1741182837231_0.png)
+- ![image.png](../assets/image_1741182837231_0.png){:height 342, :width 269}
 - A: #Cockpit (Sempre o ponto de referência)
 - B: Forward (Frente)
 - C: Afterward/Back (Trás)

@@ -1,0 +1,6 @@
+- **Ligeira**
+- **Executiva/Privada**
+- **Militar**
+- **Comercial**
+- **Agrícola**
+- **Acrobática**

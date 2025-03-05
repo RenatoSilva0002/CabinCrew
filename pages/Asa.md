@@ -1,0 +1,7 @@
+- Responsável pela a #Sustentação
+- Estrutura:
+	- ![image.png](../assets/image_1741213951479_0.png){:height 159, :width 401}
+	- A: Extradorso
+	- B: Bordo de Ataque
+	- C: Intradorso
+	- D: Bordo de Fuga
