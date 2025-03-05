@@ -420,4 +420,8 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :journal/page-title-format "dd-MM-yyyy"
- :publishing/all-pages-public? true}
+ :publishing/all-pages-public? true
+ :feature/enable-journals? false
+ :feature/enable-whiteboards? false
+ :feature/enable-flashcards? false
+ :default-home {:page "Contents"}}
