@@ -1,1 +1,4 @@
-- #[[Flaps & Slats]]
+- Mecanismos adaptados à #Asa que permitem aumentar a #Sustentação
+- Tipos:
+	- #Flaps
+	- #Slats
