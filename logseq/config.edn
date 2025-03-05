@@ -424,4 +424,4 @@
  :feature/enable-journals? false
  :feature/enable-whiteboards? false
  :feature/enable-flashcards? false
- :default-home {:page "Matérias"}}
+ :default-home {:page "Index"}}

@@ -4,3 +4,5 @@
 	- Sinais EXIT;
 	- Lavabos;
 	- Mangas;
+-
+- Recorrem aos #EPSU em caso de falha de energia.
