@@ -1,0 +1,2 @@
+- Definição: Pessoal Navegante Técnico
+- Parte do #PN
