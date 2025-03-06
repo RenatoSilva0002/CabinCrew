@@ -1,0 +1,2 @@
+- Medida de pressão em pés
+- É a sensação de altitude no interior do avião que o nosso corpo sente

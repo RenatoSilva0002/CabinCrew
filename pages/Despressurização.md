@@ -19,6 +19,22 @@
 	- Luzes no máximo (Bright)
 	- Luzes de "Exit" ligadas
 -
+- Procedimentos:
+	- #PNT:
+		- Colocar **imediatamente** a mascara de cara completa;
+		- Fazer cair as máscaras (caso o sistema automático falhe),
+		- Avisar os #PNC através do #PA ("**Emergency Descent**");
+		- Fazer uma descida de emergência para uma altitude de segurança (+/- 10,000");
+		- Estabilizar a altitude e informar os #PNC ("Altitude de Segurança")
+	- #PNC:
+		- Colocar **imediatamente** a máscara mais próxima;
+		- Sentar-se e apertar o cinto de segurança na cadeira mais próximas
+			- Se falta de lugar, agarrar-se firmemente
+		- Em segurança, instruir #PAX a colocar a máscara e o cinto de segurança ("Puxa a máscara, ponha a máscara e aperte o cinto")
+		- Aguardar normalização da altitude até aviso dos #PNT
+		- Um elemento contacta os #PNT
+	- Iniciar procedimentos #[[Pós Despressurização]]
+-
 - Tipos de despressurização:
 	- #[[Despressurização Lenta]]
 	- #[[Despressurização Rápida]]

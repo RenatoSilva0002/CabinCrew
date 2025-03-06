@@ -1,1 +1,0 @@
-- Instruções dadas dos #PNT para os #PNC

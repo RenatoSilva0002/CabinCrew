@@ -1,0 +1,1 @@
+- Altitude em relação ao nível médio do mar em que o avião

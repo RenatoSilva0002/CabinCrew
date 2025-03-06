@@ -1,0 +1,4 @@
+- Manual Release Tool (Ferramenta de Libertação Manual)
+- Uma por cada #[[Jump Seat]]
+- Só deve ser usada em situações de necessidade ou de emergência
+- Só podemos dar uso após termos atingir a altitude de segurança para a nossa própria segurança

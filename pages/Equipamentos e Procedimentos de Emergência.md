@@ -1,3 +1,5 @@
 - Conteúdos:
 	- Emergências em Voo
 	- #Despressurização
+	- #[[Piloto Incapacitado]]
+	-

@@ -1,0 +1,37 @@
+- Classificação:
+	- Fixo:
+		- #Cockpit:
+			- Haverá sempre uma máscara por piloto operante
+			- Extra máscara por lugar extra
+			- Pode ter óculos de fumo
+			- Utilização:
+				- Abrir o compartimento;
+				- Apertar patilhas vermelhas para retirar a máscara;
+				- Colocar máscara;
+				- Soltar patilhas vermelhas para a máscara se adaptar à cara;
+					- Para retirar, apertar de novo nas patilhas;
+			- Posições:
+				- Normal:
+					- Suplementar;
+					- Fluxo "a pedido";
+					- Misturado com o ar da cabine;
+				- 100%:
+					- Suplementar;
+					- Fluxo "a pedido";
+					- 100% Oxigénio;
+				- Emergência:
+					- Suplementar;
+					- Fluxo continuo;
+					- 100% Oxigénio;
+			- Usos:
+				- Primeiros socorros;
+				- Proteção;
+				- #Despressurização;
+		- Cabine: #PSU
+	- Portátil:
+		- Cabine:
+			-
+			- Usos:
+				- Primeiros socorros;
+				- Proteção;
+				- #[[Pós Despressurização]]

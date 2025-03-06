@@ -6,6 +6,16 @@
 	- #CHD:
 		- Sentar e escorregar na manga;
 		- Numa janela, pode-se passar a quem já tenha saído em primeiro lugar;
+	- Passageiros Incapacitados:
+		- Abrir o cinto de segurança do #PAP;
+		- Juntar os pés do #PAP;
+		- Levantar os braços da cadeira;
+		- Apoiar um joelho sobre as cadeiras o que dará mais apoio;
+		- Levantar o #PAP, colocar-se atrás do #PAP e arrastar para fora da fila;
+		- Se muito corpulento:
+			- Pedir ajuda a um colega;
+			- Um elemento agarra o #PAP pelas costas e outro pelas pernas;
+		- Arrastar para a saída de emergência;
 	- Invisual com cão guia:
 		- Levar consigo o cão guia, de preferência ao colo;
 	- Pessoa Obesa (excesso de peso):

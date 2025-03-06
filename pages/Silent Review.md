@@ -1,0 +1,17 @@
+- Período em que o tripulante está ultra focado, em silencio a rever todos os procedimentos de emergência na descolagem e aterragem
+-
+- Alguns aspetos a rever:
+	- É de dia? É de noite?
+	- Em que avião estou?
+	- Cintos de segurança corretamente apertados?
+	- Estou a descolar para terra ou água?
+	- Material de emergência adjacente?
+	- Como abro esta saída?
+	- A que pegas me seguro?
+	- Observar exterior. Operatividade?
+	- Que ordens dar aos #PAX? #Call-outs?
+	- Onde está a pega de insuflação manual?
+	- Onde está a Disconnecting Handle?
+	- Que faço em inoperatividades?
+	- Que faço ao abandonar a aeronave?
+	- Qual a minha #[[Posição de Choque]]?

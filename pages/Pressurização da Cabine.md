@@ -1,0 +1,7 @@
+- Serve para manter uma diferença entre a #[[Altitude de Cabine]] e a #[[Altitude Real]]
+- Começa mal que a aeronave descola
+- O ar exterior é comprimido e aquecido pelos os motores, e arrefecido e humidificado através do sistema de ar condicionado
+- Mantido através de uma série de válvulas que controlam a saída e entrada do ar da cabine, injetando mais ar na cabine do que o que sai
+- Durante a subida, as válvulas de saída do ar fecham-se e a pressão na #Cabine é mantida entre os 6,000" e 8,000"
+-
+- Em caso de falha: #Despressurização

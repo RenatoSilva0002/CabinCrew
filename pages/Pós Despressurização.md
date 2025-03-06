@@ -1,0 +1,14 @@
+- Assim que atingimos a altitude de segurança, o #Command "Safety Altitude Reached" será escutado
+-
+- Procedimentos:
+	- #PNC:
+		- Passar para O2 portátil, com o fluxo no High;
+		- Verificar #PNT;
+		- Verificar que o resto dos #PNC tem o O2 portátil;
+			- Se algum elemento não tiver, um dos elementos que já tem, leva um ao elemento sem;
+		- Verificar #Lavabos;
+		- Usar #MRT para abrir os #PSU que não abriram automaticamente;
+		- Verificar #PAX;
+		- Prestar primeiros socorros;
+		- Manter #PNT informado sobre o estado does passageiros e sua condição;
+		- Evitar que os passageiros se levantem, abram bagageiras ou retirem bagagens pois vamos iremos aterrar em breve;
