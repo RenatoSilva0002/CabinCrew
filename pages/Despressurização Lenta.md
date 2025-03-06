@@ -1,0 +1,4 @@
+- Principal Risco é o aumento de #Hipóxia
+- Deteção pode não ser óbvia
+- A queda das máscaras dar-se num estágio já avançado
+- Taxa de sobrevivência elevada

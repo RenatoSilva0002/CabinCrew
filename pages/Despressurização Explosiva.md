@@ -1,0 +1,2 @@
+- A aeronave fica completamente despressurizada em menos de 1 segundo
+- Taxa de sobrevivência baixa ou muito reduzida

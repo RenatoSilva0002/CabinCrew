@@ -4,4 +4,7 @@
 	- #[[Sistemas Gerais de Aeronaves]]
 - Termos Básicos:
 	- #PN
+	- #PA
+	- #PAX
+	- #ABP
 	- #OJDA

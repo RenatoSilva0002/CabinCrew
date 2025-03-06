@@ -1,0 +1,25 @@
+- Perda de pressão dentro da cabine
+-
+- Pode ser causado por:
+	- Avaria dos compressores ou válvulas;
+	- Deficiente vedação de portas ou janelas de emergência;
+	- Fratura de vidros das janelas;
+	- Dano estrutural
+-
+- Identificação:
+	- Pode-se ouvir um "bang";
+	- Dores de ouvidos;
+	- Sensação de estar cheio na zona abdominal (gases);
+	- Sensação de sufoco;
+	- Queda das máscaras;
+	- Descida da temperatura;
+	- Possível neblina;
+	- Movimentação brusca de ar;
+	- Detetores de fumo ativados;
+	- Luzes no máximo (Bright)
+	- Luzes de "Exit" ligadas
+-
+- Tipos de despressurização:
+	- #[[Despressurização Lenta]]
+	- #[[Despressurização Rápida]]
+	- #[[Despressurização Explosiva]]

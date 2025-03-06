@@ -1,3 +1,19 @@
-- Sempre declarada pelo #Capitão, exceto no caso na falha de comunicação com os #PNT.
+- Sempre declarada pelo #CMDT, exceto no caso na falha de comunicação com os #PNT.
 - Realizada no menor tempo possível.
 - Utilizar o maior número de saídas possível.
+-
+- Em caso de:
+	- #CHD:
+		- Sentar e escorregar na manga;
+		- Numa janela, pode-se passar a quem já tenha saído em primeiro lugar;
+	- Invisual com cão guia:
+		- Levar consigo o cão guia, de preferência ao colo;
+	- Pessoa Obesa (excesso de peso):
+		- Não sentar numa saída de emergência;
+		- Não deve sentar-se mais que uma pessoa obesa por fila;
+	- Infants (Bebés 0-2 anos):
+		- Não sentar numa saída de emergência,
+		- Não haver mais de um bebé por seguimento de fila;
+		- Preferencialmente, não sentar na fila imediatamente antes ou depois da fila de emergência;
+		- Preferencialmente, na janela,
+		- Agarrar o bebé em posição vertical apoiando a cabeça com uma mão e com a outra o corpo;

@@ -1,0 +1,3 @@
+- Pulmões expandem-se e adaptam-se à mudança de pressão
+- A aeronave fica completamente despressurizada em 8 segundos
+- Taxa de sobrevivência varia consoante a gravidade

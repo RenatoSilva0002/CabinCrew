@@ -1,2 +1,5 @@
 - Definição: Pessoal Navegante de Cabine
+- Composto pelo:
+	- #CC
+	- Tripulantes de Cabine
 - Parte dos #PN

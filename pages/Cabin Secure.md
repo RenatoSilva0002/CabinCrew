@@ -1,0 +1,16 @@
+- #PAX colocam objetos contundentes nas bolsas da cadeira
+- Verificar as bagageiras
+- Verificar que os #Lavabos estão bloqueados
+- #PAX descalçam os sapatos
+- Cadeiras direitas e cintos apertados
+- Apoios de pés e braços para baixo
+- Arrumar a #Galley e bloquear
+- Remover cortinas e guardar
+- É importante deixar a bagagem de mão a bordo
+- Verificar as #Mangas
+- #CC dá OK Cabine ao #CMDT
+- Obter informação mais recente
+- Confirmar a informação recebida
+- #[[Silent Review]]
+- #PNC ocupa os seus lugares, aperta o cinto e aguarda o sinal do #CMDT de #[[Posição de Choque]]
+- Aguardar na #[[Posição de Choque]] até a imobilização da aeronave

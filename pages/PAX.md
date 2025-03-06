@@ -1,1 +1,2 @@
 - Definição: Passageiros
+- Singular: #PAP

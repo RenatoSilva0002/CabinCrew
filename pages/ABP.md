@@ -1,0 +1,16 @@
+- Able Bodied Passengers (Passageiros Fisicamente Aptos)
+- Passageiros capazes de colaborar com a tripulação numa situação de emergência
+- São colocados perto de saídas de emergência
+- Mediante necessidade dos #PNC, são instruídos a:
+	- Abrir as saídas de emergência;
+	- Levar o equipamento de sobrevivência
+	- Auxiliar na #Evacuação
+	- Auxiliar #SCP
+- Exemplo:
+	- Tripulantes;
+	- Pessoal de aviação (Mecânicos, Trafego, etc...);
+	- Militares;
+	- Bombeiros;
+	- Policia;
+	- Profissionais de saúde;
+	- Qualquer pessoa cujo o estado físico e mental permita uma colaboração positiva;

@@ -1,0 +1,8 @@
+- Nature of the emergency: Tipo de Emergência
+- Intension: Intenção
+	- Local de aterragem (Terra ou Água)
+- Time Available: Tempo disponível para a preparação da #Cabine
+- Special Instructions: Instruções Especiais
+	- Zonas da Aeronave provavelmente mais atingidas;
+	- Quem faz o #PA;
+	- Quem toma a decisão de #Evacuação

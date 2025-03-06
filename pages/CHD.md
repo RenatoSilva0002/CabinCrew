@@ -1,0 +1,3 @@
+- Child (Criança)
+- Criança com mais de 2 anos e menos de 12 anos a viajar em cabines separadas fica a cargo dos #PNC
+- Colocar junto das estações mas não numa saída de emergência
