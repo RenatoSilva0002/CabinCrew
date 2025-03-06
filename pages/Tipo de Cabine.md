@@ -1,0 +1,12 @@
+- **Narrow Body**:
+	- Mais estreito;
+	- Só tem um corredor;
+- **Wide Body**:
+	- Mais Largo;
+	- Tem dois corredores;
+- **Single Deck**:
+	- Pode ser narrow ou wide body;
+	- Piso único;
+- **Double Deck**:
+	- Sempre wide body;
+	- Têm dois pisos;

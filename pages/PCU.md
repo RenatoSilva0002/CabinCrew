@@ -1,0 +1,4 @@
+- Passenger Control Unit (Unidade de Controlo do Passengeiro)
+- Permite controlar o entretenimento do passageiro, assim como a luz de leitura e chamada da tripulação
+- Situado no braço da cadeira ou nas costas da cadeira da frente
+- Muitos dos aviões hoje em dia, o PCU é um ecrã táctil em todos os assentos

@@ -1,0 +1,6 @@
+- Lavatory Service Unit
+- O sinal de regressar ao lugar acende quando o #PIU acende o sinal de apertar os cintos
+- Botão de chamada
+- 2 máscaras de oxigénio
+- Altifalante situado no teto para ouvir o #PA
+- Alguns modelos podem ter uma tomada

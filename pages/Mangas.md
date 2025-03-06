@@ -1,0 +1,10 @@
+- Devem ser capazes de:
+	- Acionar automaticamente
+	- Permitir a sua utilização normal em segurança mesmo em ventos até 46 km/h (25 nós)
+	- Insuflar automaticamente entre 6 à 10 segundos
+-
+- Tipos:
+	- Slide Raft: Feito para escorregar e para servir como barco;
+	- Escape Slide: Só escorrega;
+	- Single Lane: Só uma via;
+	- Dual Lane: Duas vias;

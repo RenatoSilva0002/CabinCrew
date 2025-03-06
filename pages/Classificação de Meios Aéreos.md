@@ -7,3 +7,4 @@
 		- #[[Tipo de Asas]]
 		- Tipo de Trem de Aterragem
 		- #[[Tipo de Aviação]]
+		- #[[Tipo de Cabine]]

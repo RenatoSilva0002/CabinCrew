@@ -1,0 +1,4 @@
+- Passenger Information Unit (Painel Informativo para Passageiros)
+- ![image.png](../assets/image_1741287844267_0.png){:height 79, :width 369}
+- Desligado e ligado individualmente no cockpit
+- Ambas a luzes se acendem automaticamente se #[[Altitude de Cabine]] chegar aos 14,000"

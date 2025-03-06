@@ -5,3 +5,9 @@
 	- B: Bordo de Ataque
 	- C: Intradorso
 	- D: Bordo de Fuga
+- Partes:
+	- #Slats
+	- #Flaps
+	- #Spoiler
+	- #Aileron
+	- #Winglet

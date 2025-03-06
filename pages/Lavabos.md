@@ -1,0 +1,11 @@
+- As aeronaves modernas estão equipadas com:
+	- Torneira com água fria e quente;
+	- #[[Ar Condicionado]];
+	- Espelho;
+	- Compartimento de recargas (Papel e sabonete);
+	- Pegas para auxilio de pessoas com mobilidade reduzida;
+	- Berçário;
+	- Caixote do lixo;
+	- Doseador de sabonete liquido;
+	- #LSU;
+	- Detetor de fumo;

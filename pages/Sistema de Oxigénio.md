@@ -27,7 +27,17 @@
 				- Primeiros socorros;
 				- Proteção;
 				- #Despressurização;
-		- Cabine: #PSU
+		- Cabine:
+			- Usa geradores químicos
+			- Dura pelo menos 15 minutos
+			- Não pode ser parado
+			- Ativados automaticamente pelo sistema ou manualmente pelo #PNT
+			- Apenas em caso de #Despressurização
+			- Localizações:
+				- Por cima de todos os #[[Jump Seat]];
+				- Nos #PSU ;
+				- Nas #Galley;
+				- Nos #Lavabos;
 	- Portátil:
 		- Cabine:
 			-
