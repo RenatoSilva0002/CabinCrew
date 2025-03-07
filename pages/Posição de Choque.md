@@ -1,0 +1,28 @@
+- Posição ergonomicamente mais correta para que o corpo humano sofra um ou vários impactos no corpo com o mínimo possível de danos, especialmente na cabeça
+-
+- Permanecer na posição até que a aeronave se imobilize totalmente
+-
+- Funções:
+	- Reduz a extensão da flacidez do corpo;
+	- Protege a cabeça de bater numa superfície;
+-
+- Posição:
+	- #PNC:
+		- Cinto de segurança e cinto de ombros apertados;
+		- De costas para o #Cockpit:
+			- Cabeça pressionada para trás:
+		- De frente:
+			- Cabeça inclinada para a frente, pressionando o queixo no peito:
+	- #PAX:
+		- Cinto de segurança;
+		- Cadeiras de alta densidade:
+			- Cabeça contra a cadeira da frente;
+			- Braços a proteger a testa;
+		- Cadeiras de baixa densidade:
+			- Mãos nos tornozelos ou braços a volta das pernas;
+		- Grávidas ou com bebés:
+			- Requerem posições alternativas
+-
+- #Call-outs:
+	- Se preparado: "**BRACE**"
+	- Se não: "****"

@@ -1,0 +1,10 @@
+- Tela laranja ou amarela altamente visível
+- Protege os ocupantes de diferentes condições ambientais
+-
+- Instruções:
+	- Remover o canopy e o mastro do kit de sobrevivência;
+	- Desdobre o canopy;
+	- Junte o velcro nos postes e amarre;
+	- Erga o mastro no centro do telhado usando o ilhó e prenda ao remendo de velcro no chão;
+	- Puxe o elástico sobre cada canto da #[[Manga Barco]];
+	- Amarre o perímetro externo usando os cordões;

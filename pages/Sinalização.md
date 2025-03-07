@@ -1,0 +1,30 @@
+- Avião de busca irá sinalizar de acordo se entendeu a mensagem:
+	- Se sim:
+		- Irá balançar as asas
+		- De noite, irá piscar uma luz verde
+	- Se não:
+		- Irá fazer círculos pela direita sobre nós
+		- De noite, irá piscar uma luz vermelha
+-
+- Utilizar:
+	- Sempre:
+		- #ELT
+		- Apitos
+	- Dia:
+		- Espelhos e heliógrafos;
+		- Usar materiais coloridos;
+		- Cartuchos de fumo
+		- Água:
+			- Manter os #[[Manga Barco]] juntos;
+			- #[[Dye Marker]]
+		- Terra:
+			- Alterações ao meio ambiente;
+			- Sinais de fumo;
+			- Fogueiras distanciadas, em triângulo e a produzir fumo de diferentes cores;
+	- Noite:
+		- Lanternas;
+		  id:: 67caddf7-1c4e-45a7-b704-59cdf31bed98
+		- Cartucho de chama;
+		- Água:
+			- Luzes da #[[Manga Barco]] ;
+			- Luzes dos coletes;

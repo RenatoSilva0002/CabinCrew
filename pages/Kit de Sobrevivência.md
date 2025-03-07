@@ -1,0 +1,23 @@
+- Servem para preservar a vida dos ocupantes o maior tempo possível
+- Fornecido para cada #[[Manga Barco]] e está ou pode ser anexado de acordo com o tipo de aeronave
+- Os kits variam de fabricante para fabricante
+- A primeira prioridade será recuperar estes kits o mais rápido possível, se as condições de seguranças permitirem
+-
+- Pode conter:
+	- Kit de Primeiro Socorros;
+	- Espelho heliógrafo;
+	- #[[Dye Marker]];
+	- Lanterna;
+	- Livro de instruções;
+	- Sinais de chama e fumo (Cartuchos);
+	- Equipamento de pesca;
+	- Esponja;
+	- Canivete;
+	- Apito;
+	- Comprimidos ou kit purificador de água;
+	- Tapa furos;
+	- Bomba de insuflação manual;
+	- Latas de água potável;
+	- Remos;
+	- Manual de sobrevivência;
+	- Rações de emergência;

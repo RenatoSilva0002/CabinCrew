@@ -424,4 +424,5 @@
  :feature/enable-journals? false
  :feature/enable-whiteboards? false
  :feature/enable-flashcards? false
- :default-home {:page "Index"}}
+ :default-home {:page "Index"}
+ :graph/settings {:orphan-pages? true}}

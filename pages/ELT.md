@@ -1,0 +1,26 @@
+- Emergency Locator Transmitter
+- Equipamento que se encontra a bordo em todas as aeronaves
+- Permite a #Sinalização com o propósito de salvamento
+- Pode ser usado tanto em terra como no mar
+- Deve ser sempre utilizado em posição vertical
+- Modelos variam, alguns são ativados de forma automática e podem enviar a localização GPS
+-
+- Frequências de transmissão:
+	- Satélite: Dura 24 horas
+	- 121.5Mhz (Civil): Dura 48 horas
+	- 243Mhz (Militar): Dura 48 horas
+-
+- Utilização:
+	- Água:
+		- Desenrolar cordão envolve cartão vermelho;
+		- Prender a extremidade do cordão ao barco;
+		- Mergulhar rádio na água e deixá-lo a flutuar;
+		- O rádio inicia automaticamente;
+	- Terra:
+		- Partir fita de papel que prende a antena ao corpo do rádio;
+		- Desenrolar o cordão que envolve o cartão;
+		- Retirar saco plástico, debaixo do cartão;
+		- Introduzir a parte de baixo do rádio dentro do saco plástico;
+		- Verter água ou outro líquidos para dentro do saco;
+		- Colocar o rádio num descampado, elevado se possível;
+		- Manter em posição vertical;

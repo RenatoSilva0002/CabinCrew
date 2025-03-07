@@ -1,1 +1,2 @@
-- Situação rara
+- Situação rara mas nas faces críticas, pode afetar a segurança do voo
+- Morte é o exemplo mais extremo da incapacitação, geralmente como resultado de um ataque cardíaco.

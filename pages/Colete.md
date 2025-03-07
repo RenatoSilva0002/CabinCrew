@@ -1,0 +1,25 @@
+- Dispositivo de flutuação
+-
+- Tipos:
+	- Normais:
+		- Feitos para os #PAX
+		- Contem:
+			- Sistema de inflação de dióxido de carbono e manual;
+			- Lanterna sinalizadora;
+			- Corrente da cintura;
+	- Crew:
+		- Nem todas as aeronaves efetuam esta diferenciação
+		- Normalmente são vermelhos ou laranja forte
+		- Têm tudo que os coletes normais têm
+		- Pode ter:
+			- #[[Dye Marker]];
+			- Espelho;
+			- Apito;
+	- Bebé:
+		- Suporta até 16kg
+		- Apenas têm a lanterna
+		- Estes coletes são dados no inicio de cada voo ao #PAP adulto que transporta o bebé
+-
+- Localizações:
+	- Por baixo dos assentos dos #PAX
+	- Perto dos #[[Jump Seat]]

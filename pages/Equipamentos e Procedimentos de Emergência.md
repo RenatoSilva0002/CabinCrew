@@ -2,4 +2,7 @@
 	- Emergências em Voo
 	- #Despressurização
 	- #[[Piloto Incapacitado]]
+	- #[[Posição de Choque]]
+	- #Sobrevivência
+	-
 	-

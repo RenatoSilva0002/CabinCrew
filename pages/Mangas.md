@@ -4,7 +4,11 @@
 	- Insuflar automaticamente entre 6 à 10 segundos
 -
 - Tipos:
-	- Slide Raft: Feito para escorregar e para servir como barco;
-	- Escape Slide: Só escorrega;
-	- Single Lane: Só uma via;
-	- Dual Lane: Duas vias;
+	- **Slide Raft**: #[[Manga Barco]]
+	  id:: 67c9c8e5-babb-4164-a98d-e111ed086696
+	- **Escape Slide**:
+		- Só escorrega;
+	- **Single Lane**:
+		- Só uma via;
+	- **Dual Lane**:
+		- Duas vias;
